@@ -321,7 +321,7 @@
 	icon_state = "legion_centurion"
 	item_state = "legion_centurion"
 	armor = list("melee" = 75, "bullet" = 45, "laser" = 30, "energy" = 25, "bomb" = 45, "bio" = 20, "rad" = 20, "fire" = 45, "acid" = 45, "wound" = 55)
-	slowdown = 0.05
+	slowdown = 0.04
 	salvage_loot = list(/obj/item/stack/crafting/armor_plate = 10) // Rest in pieces
 
 /obj/item/clothing/suit/armor/f13/legion/palacent //laser resist spec
