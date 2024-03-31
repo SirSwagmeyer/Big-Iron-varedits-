@@ -785,9 +785,9 @@
 	name = "scout carbine blueprint"
 	crafting_recipe_types = list(/datum/crafting_recipe/scoutcarbine)
 
-/obj/item/book/granter/crafting_recipe/blueprint/neostead
-	name = "neostead 2000 blueprint"
-	crafting_recipe_types = list(/datum/crafting_recipe/neostead)
+/obj/item/book/granter/crafting_recipe/blueprint/alr15
+	name = "ALR15 blueprint"
+	crafting_recipe_types = list(/datum/crafting_recipe/alr15)
 
 /obj/item/book/granter/crafting_recipe/blueprint/gauss
 	name = "gauss rifle blueprint"
