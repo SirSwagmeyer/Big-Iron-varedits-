@@ -1045,9 +1045,9 @@
 	subcategory = CAT_WEAPON
 	always_available = FALSE
 
-/datum/crafting_recipe/neostead
-	name = "Neostead 2000"
-	result = /obj/item/gun/ballistic/shotgun/automatic/combat/neostead
+/datum/crafting_recipe/alr15
+	name = "ALR15"
+	result = /obj/item/gun/ballistic/automatic/service/alr
 	reqs = list(/obj/item/stack/sheet/metal = 10,
 				/obj/item/advanced_crafting_components/assembly = 1,
 				/obj/item/advanced_crafting_components/alloys = 1,
